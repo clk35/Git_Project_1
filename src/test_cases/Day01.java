@@ -7,6 +7,8 @@ public class Day01 {
 
         //first update on class Day01
 
+        //update 2 is made
+
 
     }
 }
