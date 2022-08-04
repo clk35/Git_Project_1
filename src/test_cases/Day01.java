@@ -5,6 +5,8 @@ public class Day01 {
 
         //first day .first class
 
+        //first update on class Day01
+
 
     }
 }
